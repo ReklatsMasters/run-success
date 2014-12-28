@@ -1,0 +1,28 @@
+{
+  "name": "run-success",
+  "version": "0.0.0",
+  "description": "Runs the task until it doesn't come to the end successfully",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha -r should -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReklatsMasters/run-success"
+  },
+  "keywords": [
+    "task",
+    "success",
+    "run"
+  ],
+  "author": "Dmitry Tsvettsikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReklatsMasters/run-success/issues"
+  },
+  "homepage": "https://github.com/ReklatsMasters/run-success",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.4.2"
+  }
+}
