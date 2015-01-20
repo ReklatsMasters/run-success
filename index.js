@@ -12,6 +12,10 @@ module.exports = function(task, opts, cb) {
 	var complete = 0;
 
 	function done(err, succ) {
+		if (!cb) {
+			return;
+		}
+
 		if (count != Infinity) {
 			complete += 1;
 
