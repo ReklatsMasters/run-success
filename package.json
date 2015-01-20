@@ -1,6 +1,6 @@
 {
   "name": "run-success",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runs the task until it doesn't come to the end successfully",
   "main": "index.js",
   "scripts": {
