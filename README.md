@@ -5,6 +5,7 @@ run-success
 [![license](https://img.shields.io/npm/l/run-success.svg)](https://npmjs.org/package/run-success) 
 [![downloads](https://img.shields.io/npm/dm/run-success.svg)](https://npmjs.org/package/run-success)
 [![Code Climate](https://codeclimate.com/github/ReklatsMasters/run-success/badges/gpa.svg)](https://codeclimate.com/github/ReklatsMasters/run-success)
+[![Test Coverage](https://codeclimate.com/github/ReklatsMasters/run-success/badges/coverage.svg)](https://codeclimate.com/github/ReklatsMasters/run-success)
 
 Runs the task until it doesn't come to the end successfully
 
